@@ -1,4 +1,5 @@
-package slider;
+package jgc.slider;
+
 
 import javax.swing.JSlider;
 

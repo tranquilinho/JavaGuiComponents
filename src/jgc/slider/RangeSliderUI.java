@@ -1,4 +1,4 @@
-package slider;
+package jgc.slider;
 
 import java.awt.Color;
 import java.awt.Dimension;
