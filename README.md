@@ -9,3 +9,4 @@ Set of components for your Java Graphical User Interfaces:
 - jgc.file.FileDialog: Swing file dialog for ImageJ
 - jgc.ij.DiscardImageCanvas: an extension of ImageJ ImageCanvas that shows a mark for slices
   that are disabled
+- jgc.form.Form: simple form-like panel (work in progress)
